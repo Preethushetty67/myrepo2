@@ -1,0 +1,12 @@
+commit 2d3acf9
+Author: Preethu <preethu@example.com>
+Date:   Mon Jun 30 12:00:00 2025 +0530
+
+    Fix: updated login bug handling
+
+commit 7b1fdd2
+Author: Preethu <preethu@example.com>
+Date:   Sun Jun 29 16:44:22 2025 +0530
+
+    Add: initial version of app.js
+
